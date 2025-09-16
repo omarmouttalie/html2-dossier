@@ -1,0 +1,12 @@
+body {
+    background-color: rgb(255, 169, 169);
+}
+p{
+    font-family: Montserrat;
+    color: rgb(64, 11, 188);
+    text-decoration: underline;
+    font-size: 70px;
+    font-weight: bold;
+    margin-top: 100px;
+    margin-left: 500px;
+    }
